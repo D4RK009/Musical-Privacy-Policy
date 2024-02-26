@@ -2,7 +2,7 @@
 
 Definitions
 
-1. SoundX: The Music Discord bot and all it's versions
+1. Musical: The Music Discord bot and all it's versions
 
 # What data do we collect?
 
